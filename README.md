@@ -75,10 +75,3 @@ If you encounter warnings like `HttpRequestMethodNotSupportedException`, ensure 
 ## Contributing
 
 Feel free to submit issues and pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-This Markdown file will be properly formatted on GitHub and other Markdown-rendering platforms. Adjust the content as necessary to fit your specific project needs.
